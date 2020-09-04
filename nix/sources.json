@@ -1,7 +1,7 @@
 {
     "cmake_cpp_example": {
         "ref": "master",
-        "repo": "git@github.com:tfc/cmake_cpp_example.git",
+        "repo": "ssh://git@github.com/tfc/cmake_cpp_example.git",
         "rev": "15e516d23f8b9d213c83e15f5d73fc7dc37ea22a",
         "type": "git"
     },
